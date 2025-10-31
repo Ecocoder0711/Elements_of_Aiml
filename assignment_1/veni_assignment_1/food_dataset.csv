@@ -1,0 +1,31 @@
+food_id,food_name,category,calories,protein_g,fat_g,carbs_g
+F001,Pizza,Fast Food,266,11,10,33
+F002,Burger,Fast Food,295,12,14,30
+F003,Pasta,Italian,221,8,7,35
+F004,Fried Rice,Asian,250,6,12,32
+F005,Paneer Butter Masala,Indian,330,12,22,15
+F006,Chicken Biryani,Indian,290,15,10,35
+F007,Sushi,Japanese,200,10,5,28
+F008,Idli,South Indian,60,2,0,12
+F009,Dosa,South Indian,150,3,5,27
+F010,Chole Bhature,Indian,427,13,18,57
+F011,Salad,Healthy,120,3,5,15
+F012,Sandwich,Fast Food,250,9,8,32
+F013,Ice Cream,Dessert,210,4,11,24
+F014,Gulab Jamun,Dessert,175,2,7,25
+F015,Chocolate Cake,Dessert,340,5,15,45
+F016,Samosa,Snack,260,6,14,30
+F017,Pakora,Snack,180,4,10,18
+F018,Spring Roll,Asian,154,3,7,20
+F019,Maggi Noodles,Snack,320,7,13,45
+F020,Cheeseburger,Fast Food,303,14,14,33
+F021,Momos,Asian,140,6,4,18
+F022,Paneer Tikka,Indian,270,17,20,10
+F023,Rajma Chawal,Indian,310,11,8,55
+F024,Masala Dosa,South Indian,180,4,7,28
+F025,Pav Bhaji,Indian,250,6,12,32
+F026,Chicken Curry,Indian,300,20,15,10
+F027,Fish Fry,Seafood,280,22,14,5
+F028,Prawns Curry,Seafood,260,19,12,8
+F029,Apple,Healthy,52,0,0,14
+F030,Banana,Healthy,89,1,0,23

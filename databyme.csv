@@ -1,0 +1,101 @@
+student_id,student_first_name,student_last_name,student_branch,Student_cgpa
+2023001,Rohit,Sharma,Computer Science,9.2
+2023002,Priya,Patel,Electronics,8.7
+2023003,Amit,Verma,Mechanical,7.9
+2023004,Neha,Gupta,Information Technology,9.5
+2023005,Rahul,Singh,Civil,8.3
+2023006,Ananya,Desai,Computer Science,9.8
+2023007,Vikas,Kumar,Electrical,7.6
+2023008,Sanya,Kapoor,Biotechnology,8.9
+2023009,Arjun,Reddy,Chemical,7.4
+2023010,Meera,Joshi,Aerospace,9.1
+2023011,Vikram,Malhotra,Computer Science,8.5
+2023012,Ritu,Bansal,Electronics,7.8
+2023013,Karan,Agarwal,Information Technology,9.4
+2023014,Pooja,Mehta,Civil,8.2
+2023015,Sunil,Choudhary,Mechanical,7.7
+2023016,Divya,Sharma,Computer Science,8.8
+2023017,Ajay,Patel,Electrical,7.5
+2023018,Sneha,Verma,Information Technology,9.3
+2023019,Kunal,Gupta,Mechanical,8.1
+2023020,Isha,Singh,Chemical,7.9
+2023021,Vijay,Reddy,Civil,8.4
+2023022,Nisha,Kumar,Biotechnology,9.0
+2023023,Deepak,Kapoor,Electronics,8.6
+2023024,Shreya,Desai,Aerospace,9.2
+2023025,Alok,Joshi,Computer Science,8.9
+2023026,Neeta,Malhotra,Electronics,7.7
+2023027,Rajat,Bansal,Information Technology,9.6
+2023028,Swati,Agarwal,Mechanical,8.0
+2023029,Vivek,Mehta,Civil,7.5
+2023030,Simran,Choudhary,Computer Science,9.4
+2023031,Gaurav,Sharma,Electrical,8.3
+2023032,Anjali,Kumar,Biotechnology,9.1
+2023033,Saurabh,Patel,Chemical,7.8
+2023034,Kavita,Singh,Information Technology,9.7
+2023035,Aditya,Gupta,Civil,8.2
+2023036,Nidhi,Verma,Computer Science,9.3
+2023037,Sandeep,Reddy,Electronics,7.9
+2023038,Riya,Kapoor,Mechanical,8.5
+2023039,Prakash,Desai,Aerospace,9.0
+2023040,Meghna,Kumar,Chemical,7.6
+2023041,Harish,Joshi,Computer Science,8.8
+2023042,Shikha,Malhotra,Information Technology,9.2
+2023043,Naveen,Bansal,Civil,8.1
+2023044,Tanya,Agarwal,Electronics,7.7
+2023045,Manoj,Mehta,Biotechnology,8.4
+2023046,Shalini,Choudhary,Computer Science,9.5
+2023047,Deepika,Sharma,Mechanical,8.0
+2023048,Rajesh,Patel,Electrical,7.6
+2023049,Naina,Singh,Information Technology,9.4
+2023050,Vinay,Gupta,Civil,8.3
+2023051,Anita,Verma,Computer Science,9.1
+2023052,Prakash,Reddy,Electronics,7.8
+2023053,Shweta,Kapoor,Mechanical,8.6
+2023054,Suresh,Desai,Chemical,7.5
+2023055,Madhuri,Kumar,Aerospace,9.2
+2023056,Rakesh,Joshi,Computer Science,8.7
+2023057,Aarti,Malhotra,Information Technology,9.5
+2023058,Vijay,Bansal,Electronics,7.9
+2023059,Preeti,Agarwal,Biotechnology,8.4
+2023060,Sanjay,Mehta,Civil,7.7
+2023061,Seema,Choudhary,Computer Science,9.3
+2023062,Ashish,Sharma,Mechanical,8.2
+2023063,Priyanka,Kumar,Electrical,7.5
+2023064,Nitin,Patel,Information Technology,9.6
+2023065,Jyoti,Singh,Chemical,8.0
+2023066,Ramesh,Gupta,Computer Science,9.0
+2023067,Sarita,Verma,Electronics,7.8
+2023068,Mohit,Reddy,Civil,8.5
+2023069,Sonali,Kapoor,Aerospace,9.2
+2023070,Dinesh,Desai,Mechanical,7.9
+2023071,Kavya,Kumar,Computer Science,8.8
+2023072,Rajat,Joshi,Biotechnology,9.1
+2023073,Neelam,Malhotra,Information Technology,8.4
+2023074,Manish,Bansal,Chemical,7.6
+2023075,Poornima,Agarwal,Electronics,9.3
+2023076,Vikrant,Mehta,Civil,8.2
+2023077,Smita,Choudhary,Computer Science,9.5
+2023078,Rajeev,Sharma,Electrical,8.0
+2023079,Juhi,Kumar,Mechanical,7.7
+2023080,Sameer,Patel,Information Technology,9.4
+2023081,Geeta,Singh,Biotechnology,8.3
+2023082,Arvind,Gupta,Computer Science,9.2
+2023083,Deepti,Verma,Civil,7.9
+2023084,Varun,Reddy,Electronics,8.6
+2023085,Sunita,Kapoor,Chemical,7.5
+2023086,Dheeraj,Desai,Aerospace,9.1
+2023087,Anjana,Kumar,Computer Science,8.7
+2023088,Sudhir,Joshi,Information Technology,9.3
+2023089,Manju,Malhotra,Mechanical,8.1
+2023090,Ravi,Bansal,Electronics,7.8
+2023091,Radha,Agarwal,Biotechnology,9.0
+2023092,Sushil,Mehta,Civil,8.4
+2023093,Leela,Choudhary,Computer Science,9.6
+2023094,Mahesh,Sharma,Electrical,7.7
+2023095,Neetu,Kumar,Information Technology,8.9
+2023096,Rajiv,Patel,Chemical,8.2
+2023097,Bhavna,Singh,Computer Science,9.4
+2023098,Pankaj,Gupta,Mechanical,8.0
+2023099,Rekha,Verma,Electronics,7.6
+2023100,Sudhir,Reddy,Aerospace,9.2

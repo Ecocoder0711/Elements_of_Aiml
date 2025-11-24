@@ -9,7 +9,7 @@ data= pd.read_csv('Data-1.csv')
 
 # Step 2: Simulate missing values by randomly setting some values to NaN for demonstration purpose 
 
-data_missing = data.copy('Data-1.csv')
+data_missing = data.copy()
 data_missing.loc[0,'Duration'] = np.nan # Simulating a missing value in 'Duration'
 data_missing.loc[2,'Pulse'] = np.nan # Simulating a missing value in 'Pulse'
 
